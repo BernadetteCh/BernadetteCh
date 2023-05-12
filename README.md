@@ -22,15 +22,12 @@
 
 ## I learned with
 [Freecodecamp](https://www.freecodecamp.org/)
-<video src="https://www.youtube.com/watch?v=GoXwIVyNvX0&t=6663s"></video>
-  [![Watch the video](https://www.youtube.com/watch?v=GoXwIVyNvX0&t=6663s)
-  [![Watch the video](https://www.youtube.com/watch?v=-mwpoE0x0JQ)
-  [![Watch the video](https://www.youtube.com/watch?v=tc8DU14qX6I&list=PLRqwX-V7Uu6YxDKpFzf_2D84p0cyk4T7X&index=3)
-  
-https://youtu.be/SccSCuHhOw0
-https://youtu.be/SccSCuHhOw0
+[Freecodecamp](https://www.shecodes.io/)
 
-[![Alt text](https://img.youtube.com/vi/SccSCuHhOw0/0.jpg)](https://www.youtube.com/watch?v=SccSCuHhOw0)
+[![Amigoscode](https://img.youtube.com/vi/-mwpoE0x0JQ/0.jpg)](https://www.youtube.com/watch?v=-mwpoE0x0JQ)
+[![Web Dev Simplified](https://img.youtube.com/vi/SccSCuHhOw0/0.jpg)](https://www.youtube.com/watch?v=SccSCuHhOw0)
+[![The Coding Train](https://img.youtube.com/vi/tc8DU14qX6I/0.jpg)](https://www.youtube.com/watch?v=tc8DU14qX6I)
+
 
 
 
