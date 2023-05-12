@@ -27,7 +27,7 @@
   [![Watch the video](https://www.youtube.com/watch?v=-mwpoE0x0JQ)
   [![Watch the video](https://www.youtube.com/watch?v=tc8DU14qX6I&list=PLRqwX-V7Uu6YxDKpFzf_2D84p0cyk4T7X&index=3)
   
-  [![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=StTqXEQ2l-Y)](https://www.youtube.com/watch?v=GoXwIVyNvX0&t=6663s "Everything Is AWESOME")
+https://youtu.be/SccSCuHhOw0
 
 
 
