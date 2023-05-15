@@ -5,7 +5,7 @@
 
 - 👯 I’m always looking to collaborate on **with passionate, competent, humorous people (:**
 
-- 👨‍💻 All of my projects are available at [Link to profile](https://64628b6bc0a930024de96ced--papaya-dusk-f73fa3.netlify.app/)
+- 👨‍💻 All of my projects are available at [Link to profile](https://bernadettech.netlify.app/)
 
 - 📫 How to reach me **b.christiner93@gmail.com**
 
