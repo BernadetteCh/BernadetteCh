@@ -11,6 +11,12 @@
 
 - ⚡ Fun fact **I can sleep everywhere**
 
+Before I changed careers, I mainly used my laptop for watching videos. A dark time in my life, but "In the darkest night, a spark ignites, showing you a path so bright". The little spark came out of my laptop during the pandemic when I tried programming and failed immediately afterwards. I left my fear of computers and computer science classes at school behind me and continued to study. I immersed myself in a new world in which I discovered something new every time, could learn and had fun doing it.
+
+For more than a year now I've been learning to program or should I say googling. Since it is a very time- consuming training, I made myself completely dependent on this search engine and my laptop.
+I like working in teams and appreciate a respectful and harmonious relationship with each other. I also enjoy having time to myself from time to time and challenging myself by implementing my own ideas. I work conscientiously and detail-oriented. Furthermore, my strength lies in not letting my programming skills be negatively affected and not giving up, even in stressful situations. 
+Today I can proudly say: **Hello World !**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/coming soon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="coming soon" height="30" width="40" /></a>
