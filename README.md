@@ -5,7 +5,7 @@
 
 - 👯 I’m always looking to collaborate on **with passionate, competent, humorous people (:**
 
-- 👨‍💻 All of my projects are available at [Link to profile](https://bernadettech.netlify.app/)
+- 👨‍💻 All of my projects are available at [Link to portfolio](https://bernadettech.netlify.app/)
 
 - 📫 How to reach me **b.christiner93@gmail.com**
 
@@ -14,8 +14,9 @@
 
 For more than a year now I've been learning to program or should I say googling.I immersed myself in a new world in which I discovere something new every time I learn. 
 Since it is a very time- consuming process and full of challenges, I made myself completely dependent on this searchengine and my laptop.
-I like working in teams and appreciate a respectful and harmonious relationship with each other. I also enjoy having time to myself from time to time and challenging myself by implementing my own ideas. I work conscientiously and detail-oriented. Furthermore, my strength lies in not letting my programming skills be negatively affected and not giving up, even in stressful situations. 
+I like working in teams and appreciate a respectful and harmonious relationship with each other. I also enjoy having time to myself from time to time and challenging myself by implementing my own ideas.I approach work with a conscientious and detail-oriented mindset. Moreover, I take pride in my ability to maintain the quality of my programming skills despite any challenges, and I remain determined and resilient even in the face of stressful situations. 
 After countless challenges, failures but also successes I can proudly say: **Hello World !**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
