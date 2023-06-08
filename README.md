@@ -5,7 +5,7 @@
 
 - 👯 I’m always looking to collaborate on **with passionate, competent, humorous people (:**
 
-- 👨‍💻 All of my projects are available at [Coming soon](www.linkedin.com/in/bernadette-christiner-40576127a)
+- 👨‍💻 All of my projects are available at [Coming soon](#)
 
 - 📫 How to reach me **b.christiner93@gmail.com**
 
@@ -20,7 +20,7 @@ After countless challenges, failures but also successes I can proudly say: **Hel
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/coming soon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="coming soon" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/bernadette-christiner-40576127a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="coming soon" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/949019145968705669" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="coming soon" height="30" width="40" /></a>
 </p>
 
