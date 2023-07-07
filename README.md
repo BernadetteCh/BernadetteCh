@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **b.christiner93@gmail.com**
 
-- ⚡ Fun fact **I can sleep everywhere**
+- ⚡ Fun fact **When I am at home cooking in my kitchen, I pretend there is a camera and that I have my own show**
 
 
 For more than a year now I've been learning to program or should I say googling.I immersed myself in a new world in which I discovere something new every time I learn. 
